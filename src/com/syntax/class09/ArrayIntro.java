@@ -52,7 +52,7 @@ public class ArrayIntro {
 		double average=(price[0]+price[1]+price[2]+price[3])/4;
 		System.out.println(average );
 		  
-		
+System.out.println();		
 	}
 
 }
